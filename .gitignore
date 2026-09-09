@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+dataset/
+datasets/
+*.zip
+
+# Model files
+*.h5
+*.keras
+*.pkl
+
+# Environment
+.env
+venv/
+.venv/
