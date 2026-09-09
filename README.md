@@ -43,7 +43,7 @@ The dataset is imbalanced, with Banana Yellow Sigatoka Disease having the fewest
 - Validation: **61 images**
 - Testing: **62 images**
 
-- ## 🗂️ Dataset
+## 🗂️ Dataset
 
 The project uses a banana leaf image dataset containing **408 images across 7 classes**.
 
